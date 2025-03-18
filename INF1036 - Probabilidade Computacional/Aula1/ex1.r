@@ -20,7 +20,7 @@ for (i in 1:nsamples) {
 }
 
 PA <- cont.A / nsamples
-print(PA)
+print(PA) 
 
 PB <- cont.B / nsamples
 print(PB)
